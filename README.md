@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a Carpool Organization app**
+ 🔭 I’m currently working on **a FullStack Job Shadowing site for High School Students**
  
  🌱 I’m currently learning **Svelte, Sveletekit, Tailwind**
 
