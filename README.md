@@ -10,11 +10,11 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a FullStack Job Shadowing site for High School Students**
+ 🔭 I’m currently working on **a FullStack Website for SASE Texas**
  
  🌱 I’m currently learning **Svelte, Sveletekit, Tailwind**
 
- 💬 Ask me about **Java, Python, OpenCV, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
+ 💬 Ask me about **Java, Python, OpenCV, React, Firebase**
 
  ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
  
@@ -43,14 +43,6 @@
 
 <br/>
 <hr/>
-
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/RentaKenta/RentaKenta/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
 
 <hr/>
 
